@@ -1,8 +1,9 @@
 {
+    "name": "zplay/okr",
+    "require": {}
     "autoload": {
-	"psr-4": {
+        "psr-4": {
             "Hhxc\\": "hhxc/"
         }
     }
 }
-
