@@ -1,6 +1,13 @@
 {
     "name": "zplay/okr",
-    "require": {}
+    "description": "composer",
+    "authors": [
+        {
+            "name": "lili",
+            "email": "1219212571@qq.com"
+        }
+    ],
+    "require": {},
     "autoload": {
         "psr-4": {
             "Hhxc\\": "hhxc/"
